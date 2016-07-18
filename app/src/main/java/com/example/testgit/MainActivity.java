@@ -9,9 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        int a = 0;
-        a = a + 1;
-        a = 4;
+        String a = "";
     }
 }
