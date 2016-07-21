@@ -20,12 +20,13 @@ public class MainActivity extends AppCompatActivity {
     int ff(){
         return 0;
     }
-    void fun(){
-        for(int i = 0; i < 4; i++){
-            int dddd = 0;
-            int a;
+        void fun(){
+            for(int i = 0; i < 4; i++){
+                int dddd = 0;
+                int a;
             int b = 34;
-            String str = "t2";
+            String str = "t3";
+
         }
     }
 }
