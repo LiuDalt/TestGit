@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         b = b++;
 
         int c = 0;
-        c = 345;
+        c = 345 + 34534;
     }
     int ff(){
         return 0;
