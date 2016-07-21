@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         for(int i = 0; i < 4; i++){
             int dddd = 0;
             int a;
-            int b = 0;
+            int b = 234577;
         }
     }
 }
