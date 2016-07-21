@@ -13,8 +13,12 @@ public class MainActivity extends AppCompatActivity {
         a = "asdfasdfasdf";
         int b = 0;
         b = b++;
-
         int c = 0;
         c = 345;
+    }
+    void fun(){
+        for(int i = 0; i < 4; i++){
+            int a;
+        }
     }
 }
