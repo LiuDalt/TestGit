@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 int a;
             int b = 34;
             String str = "t3";
+                int aaa =- 999;
 
         }
     }
