@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
     void fun(){
         for(int i = 0; i < 4; i++){
+            int dddd = 0;
             int a;
         }
     }
